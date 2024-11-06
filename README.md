@@ -19,3 +19,10 @@
 
    - [Banker Roulette](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%204/banker_roulette.py)
    - [Rock Paper Scissors](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%204/rock_paper_scissors.py)
+
+5. Day 5: Python Loops
+
+   - [FizzBuzz](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/fizzbuzz.py)
+   - [Gauss Challnge](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/gauss_challenge.py)
+   - [Highest Score](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/highest_score.py)
+   - [Password Generator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/password_geneator.py)
