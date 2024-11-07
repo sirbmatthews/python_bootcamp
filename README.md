@@ -26,3 +26,10 @@
    - [Gauss Challnge](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/gauss_challenge.py)
    - [Highest Score](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/highest_score.py)
    - [Password Generator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/password_geneator.py)
+
+6. Day 6: Python Functions & Karel
+   
+   Reeborg's World
+   - [Hurdles Race](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+   - [Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
