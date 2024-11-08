@@ -36,3 +36,9 @@
 7. Day 7: Hangman
 
    - [Hangman](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%207/hangman.py)
+
+8. Day 8: Funcctions with Inputs
+
+   - [Caesar Cipher](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/ceasar_cipher.py)
+   - [Life in Weeks](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/life_in_weeks.py)
+   - [Lovve Calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/love_calculator.py)
