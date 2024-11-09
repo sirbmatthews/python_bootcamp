@@ -41,4 +41,9 @@
 
    - [Caesar Cipher](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/ceasar_cipher.py)
    - [Life in Weeks](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/life_in_weeks.py)
-   - [Lovve Calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/love_calculator.py)
+   - [Love Calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/love_calculator.py)
+
+9. Day 9: Dictionaries, Nesting and the Secret Auction
+
+   - [Grading Program](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%209/grading_program.py)
+   - [Secret Auction](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%209/secret_auction.py)
