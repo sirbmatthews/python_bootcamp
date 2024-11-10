@@ -53,3 +53,7 @@ Day 10: Functions with Outputs
 
    - [Calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2010/calculator.py)
    - [Leap Year](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2010/leap_year.py)
+
+Day 11: The Blackjack Capstone Project
+
+   - [Blackjack](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2011/blackjack.py)
