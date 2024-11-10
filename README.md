@@ -2,52 +2,52 @@
 
 Day 1: Printing, Commenting, Debugging, String Manipulation and Variables
 
-   - [Band Name generator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%201/band_name_generator.py)
+   - [Band Name generator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2001/band_name_generator.py)
 
 Day 2: Data Type, Numbers, Operations, Type Conversion, f-Strings
 
-   - [Tip calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%202/tip_calculator.py)
+   - [Tip calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2002/tip_calculator.py)
 
 Day 3: Control Flow and Logical Operations
 
-   - [Odd or Even checker](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%203/odd_or_even.py)
-   - [Basic Pizza order app](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%203/pizza_store.py)
-   - [RollerCoaster ride ticket system](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%203/roller_coster_ticket.py)
-   - [Treasure Island game](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%203/treasure_island.py)
+   - [Odd or Even checker](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2003/odd_or_even.py)
+   - [Basic Pizza order app](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2003/pizza_store.py)
+   - [RollerCoaster ride ticket system](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2003/roller_coster_ticket.py)
+   - [Treasure Island game](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2003/treasure_island.py)
 
 Day 4: Randomisation and Python Lists
 
-   - [Banker Roulette](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%204/banker_roulette.py)
-   - [Rock Paper Scissors](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%204/rock_paper_scissors.py)
+   - [Banker Roulette](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2004/banker_roulette.py)
+   - [Rock Paper Scissors](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2004/rock_paper_scissors.py)
 
 Day 5: Python Loops
 
-   - [FizzBuzz](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/fizzbuzz.py)
-   - [Gauss Challnge](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/gauss_challenge.py)
-   - [Highest Score](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/highest_score.py)
-   - [Password Generator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%205/password_geneator.py)
+   - [FizzBuzz](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2005/fizzbuzz.py)
+   - [Gauss Challnge](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2005/gauss_challenge.py)
+   - [Highest Score](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2005/highest_score.py)
+   - [Password Generator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2005/password_geneator.py)
 
 Day 6: Python Functions & Karel
    
-   - [Reeborg's World - Hurdles Race](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
-   - [Reeborg's World - Hurdles Race Code](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%206/hurdles_race.py)
+   - [Reeborg's World - Hurdles Race](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%2004&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+   - [Reeborg's World - Hurdles Race Code](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2006/hurdles_race.py)
    - [Reeborg's World - Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
-   - [Reeborg's World - Maze Code](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%206/maze.py)
+   - [Reeborg's World - Maze Code](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2006/maze.py)
 
 Day 7: Hangman
 
-   - [Hangman](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%207/hangman.py)
+   - [Hangman](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2007/hangman.py)
 
 Day 8: Funcctions with Inputs
 
-   - [Caesar Cipher](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/ceasar_cipher.py)
-   - [Life in Weeks](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/life_in_weeks.py)
-   - [Love Calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%208/love_calculator.py)
+   - [Caesar Cipher](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2008/ceasar_cipher.py)
+   - [Life in Weeks](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2008/life_in_weeks.py)
+   - [Love Calculator](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2008/love_calculator.py)
 
 Day 9: Dictionaries, Nesting and the Secret Auction
 
-   - [Grading Program](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%209/grading_program.py)
-   - [Secret Auction](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%209/secret_auction.py)
+   - [Grading Program](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2009/grading_program.py)
+   - [Secret Auction](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2009/secret_auction.py)
 
 Day 10: Functions with Outputs
 
