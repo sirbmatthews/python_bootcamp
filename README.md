@@ -57,3 +57,8 @@ Day 10: Functions with Outputs
 Day 11: The Blackjack Capstone Project
 
    - [Blackjack](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2011/blackjack.py)
+
+Day 12: Scope & Number Guessing Game
+
+   - [Number Guessing](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2012/number_guessing_game.py)
+   - [Prime Number Checker](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2012/prime_number_checker.py)   
