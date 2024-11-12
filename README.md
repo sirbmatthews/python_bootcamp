@@ -61,4 +61,8 @@ Day 11: The Blackjack Capstone Project
 Day 12: Scope & Number Guessing Game
 
    - [Number Guessing](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2012/number_guessing_game.py)
-   - [Prime Number Checker](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2012/prime_number_checker.py)   
+   - [Prime Number Checker](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2012/prime_number_checker.py)
+
+Day 13: Debugging - How to Find and Fix Errors in your Code
+
+   - [Debugging Tips](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2013/debug_tips.md)
