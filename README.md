@@ -66,3 +66,7 @@ Day 12: Scope & Number Guessing Game
 Day 13: Debugging - How to Find and Fix Errors in your Code
 
    - [Debugging Tips](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2013/debug_tips.md)
+
+Day 14: Higher Lower Game Project
+
+   - [Higher Lower](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2014/higher_lower.py)
