@@ -74,3 +74,9 @@ Day 14: Higher Lower Game Project
 Day 15: Local Development Environment Setup & the Coffee Machine
 
    - [Coffee Machine](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2015/coffee_machine.py)
+
+Day 16: Object Oriented Programming (OOP)
+
+   - [Coffee Machine OOP](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2016/coffee_machine/main.py)
+   - [Create Table](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2016/create_table.py)
+   - [Turtle](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2016/timmy_turtle.py)
