@@ -70,3 +70,7 @@ Day 13: Debugging - How to Find and Fix Errors in your Code
 Day 14: Higher Lower Game Project
 
    - [Higher Lower](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2014/higher_lower.py)
+
+Day 15: Local Development Environment Setup & the Coffee Machine
+
+   - [Coffee Machine](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2015/coffee_machine.py)
