@@ -80,3 +80,7 @@ Day 16: Object Oriented Programming (OOP)
    - [Coffee Machine OOP](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2016/coffee_machine/main.py)
    - [Create Table](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2016/create_table.py)
    - [Turtle](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2016/timmy_turtle.py)
+
+Day 17: The Quiz Project and benefits of OOP
+
+   - [The Quiz Game](https://github.com/sirbmatthews/python_bootcamp/blob/main/Day%2017/main.py)
