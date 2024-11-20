@@ -12,7 +12,7 @@ Day 3: Control Flow and Logical Operations
 
    - [Odd or Even checker](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2003/odd_or_even.py)
    - [Basic Pizza order app](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2003/pizza_store.py)
-   - [RollerCoaster ride ticket system](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2003/roller_coster_ticket.py)
+   - [RollerCoaster ride ticket system](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2003/roller_coaster_ticket.py)
    - [Treasure Island game](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2003/treasure_island.py)
 
 Day 4: Randomisation and Python Lists
@@ -92,3 +92,9 @@ Day 18: Turtle & the Graphical User Interface (GUI)
    - [Different Shapes](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2018/different_shapes.py)
    - [Random Walk](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2018/random_walk.py)
    - [Spirograph](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2018/spirograph.py)
+
+Day 19: Instances, State and Higher Order Functions
+
+   - [Etch a Sketch](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2019/etch_a_sketch.py)
+   - [Turtle Race](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2019/turtle_race.py)
+
