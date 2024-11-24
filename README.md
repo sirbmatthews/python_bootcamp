@@ -98,3 +98,7 @@ Day 19: Instances, State and Higher Order Functions
    - [Etch a Sketch](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2019/etch_a_sketch.py)
    - [Turtle Race](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2019/turtle_race.py)
 
+Day 20 & 21: Build the Snake Game: Animation & Coordinates and Inheritance & List Slicing
+
+   - [Snake Game](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2020%20&%2021/main.py)
+   
