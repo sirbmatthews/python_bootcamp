@@ -102,3 +102,6 @@ Day 20 & 21: Build the Snake Game: Animation & Coordinates and Inheritance & Lis
 
    - [Snake Game](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2020%20&%2021/main.py)
    
+Day 22: Build Pong: The Famous Arcade Game
+
+   - [Pong Game](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2022/main.py)
