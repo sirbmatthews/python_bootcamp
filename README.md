@@ -105,3 +105,7 @@ Day 20 & 21: Build the Snake Game: Animation & Coordinates and Inheritance & Lis
 Day 22: Build Pong: The Famous Arcade Game
 
    - [Pong Game](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2022/main.py)
+   
+Day 23: The Turtle Crossing Capstone Project
+
+   - [Turtle Crossing Game](https://github.com/sirxmatt/python_bootcamp/blob/main/Day%2023/main.py)
